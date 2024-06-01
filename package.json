@@ -1,0 +1,26 @@
+{
+  "name": "thumbnails",
+  "version": "1.0.0",
+  "description": "buceta",
+  "main": "index.ts",
+  "author": "Sebola3461",
+  "license": "MIT",
+  "dependencies": {
+    "@types/get-image-colors": "^4.0.5",
+    "@types/node": "^20.12.12",
+    "axios": "^1.7.2",
+    "canvas": "^2.11.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "extract-colors": "^4.0.6",
+    "gm-palette": "^1.1.0",
+    "osu-classes": "^3.1.0",
+    "osu-parsers": "^4.1.7",
+    "osu-standard-stable": "^5.0.0",
+    "svg2img": "^1.0.0-beta.2"
+  },
+  "devDependencies": {
+    "@types/gm": "^1.25.4",
+    "@types/lodash": "^4.17.4"
+  }
+}

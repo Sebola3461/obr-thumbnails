@@ -1,0 +1,6 @@
+.env
+output.png
+yarn.lock
+build/
+node_modules
+replays/
